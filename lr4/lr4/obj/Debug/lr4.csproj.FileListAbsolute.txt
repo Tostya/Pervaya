@@ -1,0 +1,6 @@
+C:\Temp\PKS-85\mdk 03.02\lr4\lr4\bin\Debug\lr4.exe.config
+C:\Temp\PKS-85\mdk 03.02\lr4\lr4\bin\Debug\lr4.exe
+C:\Temp\PKS-85\mdk 03.02\lr4\lr4\bin\Debug\lr4.pdb
+C:\Temp\PKS-85\mdk 03.02\lr4\lr4\obj\Debug\lr4.csprojResolveAssemblyReference.cache
+C:\Temp\PKS-85\mdk 03.02\lr4\lr4\obj\Debug\lr4.exe
+C:\Temp\PKS-85\mdk 03.02\lr4\lr4\obj\Debug\lr4.pdb
